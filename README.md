@@ -1,2 +1,4 @@
 # VOICE-BASED-EMAIL-
-It is totally absed on voice base email
+It is totally based on voice base email
+User can input by voice recognition 
+easy and efficient
